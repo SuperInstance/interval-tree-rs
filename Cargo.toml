@@ -1,0 +1,11 @@
+[package]
+name = "interval-tree-rs"
+version = "0.1.0"
+edition = "2021"
+authors = ["SuperInstance"]
+description = "Interval tree data structure with stabbing queries, range queries, and overlap detection"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/SuperInstance/interval-tree-rs"
+keywords = ["interval", "tree", "range", "query", "data-structure"]
+categories = ["data-structures", "algorithms"]
+readme = "README.md"
